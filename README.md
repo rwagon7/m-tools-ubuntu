@@ -3,8 +3,8 @@
 
 # GUI APPS
 - VS Code => deb
-- VS studio
-- filezilla => tar
+- VS studio => not available on ubuntu
+- filezilla => sudo apt install filezilla
 
 # ACCOUNTS
 -rwagon7 => git
