@@ -4,7 +4,7 @@
 - curl => sudo apt install curl
 - conda => anconda official documentaion
 - pip => sudo apt install python3-pip
-- software properties, http transport & wget=> sudo apt install software-properties-common apt-transport-https wget -y
+- software properties, http transport & wget => sudo apt install software-properties-common apt-transport-https wget -y
   
 # GUI APPS
 - VS Code => deb
