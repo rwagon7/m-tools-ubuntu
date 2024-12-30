@@ -17,4 +17,4 @@
 - idle => sudo apt install idle3
 
 # ACCOUNTS
--rwagon7 => git
+- rwagon7 => git
