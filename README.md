@@ -13,7 +13,7 @@
 - anaconda => https://docs.anaconda.com/anaconda/install/
 - sublime => deb
 - sublime merge => apt
-- atom => pip
+- atom => deb from github repo
 - idle => sudo apt install idle3
 
 # ACCOUNTS
