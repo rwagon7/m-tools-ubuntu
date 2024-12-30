@@ -1,4 +1,5 @@
 # CLI TOOLS
+- xz-utils
 
 # GUI APPS
 - VS Code => deb
