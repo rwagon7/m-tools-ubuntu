@@ -15,6 +15,9 @@
 - sublime merge => apt
 - atom => deb from github repo
 - idle => sudo apt install idle3
-
+- webstrom => jetbrains
+- intellij => jetbrains
+- mulesoft anypoint => ide
+  
 # ACCOUNTS
 - rwagon7 => git
