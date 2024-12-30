@@ -1,5 +1,6 @@
 # CLI TOOLS
 - xz-utils
+- pyhton3 => sudo apt python3 
 
 # GUI APPS
 - VS Code => deb
