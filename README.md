@@ -1,10 +1,11 @@
 # CLI TOOLS
-- xz-utils
+- xz-utils => cli
 - pyhton3 => sudo apt python3
 - curl => sudo apt install curl
 - conda => anconda official documentaion
 - pip => sudo apt install python3-pip
 - software properties, http transport & wget => sudo apt install software-properties-common apt-transport-https wget -y
+- katoolin => git, python2 with anaconda and bashrc added for convience
   
 # GUI APPS
 - VS Code => deb
