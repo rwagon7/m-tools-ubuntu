@@ -7,6 +7,7 @@
 - software properties, http transport & wget => sudo apt install software-properties-common apt-transport-https wget -y
 - katoolin => git, python2 with anaconda and bashrc added for convience
 - oh my zsh => zsh terminal using apt
+- gtk => cross platform tool for mobiel and desktop applications
   
 # GUI APPS
 - VS Code => deb
