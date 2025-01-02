@@ -1,3 +1,6 @@
+# *LANGUAGES THAT MATTER TO ME*
+-  cpp, java , python, js, sql, html, css and c#
+
 # CLI TOOLS
 - xz-utils => cli
 - pyhton3 => sudo apt python3
