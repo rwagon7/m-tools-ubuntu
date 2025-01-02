@@ -21,6 +21,7 @@
 - webstrom => jetbrains
 - intellij => jetbrains
 - mulesoft anypoint => ide
+- rider => app
   
 # ACCOUNTS
 - rwagon7 => git
